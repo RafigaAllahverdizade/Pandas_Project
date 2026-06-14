@@ -73,12 +73,3 @@ Key Findings
 Certain products dominate customer purchases.
 Reordering behavior is concentrated among frequently purchased products.
 Product demand varies significantly across departments and aisles.
-Missing values were found to originate from specific business-related conditions rather than random data quality issues.
-Tools and Technologies
-Python
-Pandas
-NumPy
-Plotly
-Jupyter Notebook
-Conclusion
-This project demonstrates a complete Exploratory Data Analysis workflow, including data integration, data quality assessment, business understanding, and visualization of customer purchasing behavior.
